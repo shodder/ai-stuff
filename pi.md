@@ -1,11 +1,11 @@
 Useful extensions:
-- Web Search - https://pi.dev/packages/pi-web-access
-- Context reduction - https://pi.dev/packages/context-mode
-- AI asks you questions - https://pi.dev/packages/@juicesharp/rpiv-ask-user-question
-- Permissions - https://pi.dev/packages/@gotgenes/pi-permission-system
-- Todo list rendered inline - https://pi.dev/packages/@juicesharp/rpiv-todo
-- Add planning mode - https://pi.dev/packages/@plannotator/pi-extension:
-- If you need MCP - https://pi.dev/packages/pi-mcp-adapter
+- Web Search - https://pi.dev/packages/pi-web-access (pi install npm:pi-web-access)
+- Context reduction - https://pi.dev/packages/context-mode (pi install npm:context-mode)
+- AI asks you questions - https://pi.dev/packages/@juicesharp/rpiv-ask-user-question (pi install npm:@juicesharp/rpiv-ask-user-question)
+- Permissions - https://pi.dev/packages/@gotgenes/pi-permission-system (pi install npm:@gotgenes/pi-permission-system)
+- Todo list rendered inline - https://pi.dev/packages/@juicesharp/rpiv-todo (pi install npm:@juicesharp/rpiv-todo)
+- Add planning mode - https://pi.dev/packages/@plannotator/pi-extension (pi install npm:@plannotator/pi-extension)
+- If you need MCP - https://pi.dev/packages/pi-mcp-adapter (pi install npm:pi-mcp-adapter)
 
 Permissions config I have gone for:
 ```json
